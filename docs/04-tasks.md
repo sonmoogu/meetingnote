@@ -70,4 +70,4 @@ CLAUDE.md + docs/ 6종 작성.
 | 3.5 할 일 화면: 담당자·기한·회의 표, 좁은 화면에서 표만 가로 스크롤 | 360px 에서 문서 전체에는 가로 스크롤이 없고 표만 스크롤되는지 확인 | [x] |
 | 3.6 요소 이름 확인: HTML 의 id 가 `03-design.md` 표와 같은지 비교 | `q` `from` `to` `cards` `title` `metAt` `attendees` `file` `body` `btnUp` `btnSave` `result` `modal` `mTitle` `todoBody` 가 모두 있고 다른 이름이 없는지 확인 | [x] |
 | 3.7 API 연결: 같은 오리진(포트 8000)에서 `/api/` 호출, 테마 토글(`localStorage`) | 녹취 파일 하나가 세 갈래로 저장되고 새로고침해도 유지, 검색으로 지난 회의가 찾아지는지, 360px 에서 안 깨지는지 확인 | [x] |
-| 3.8 `git push` | 원격 저장소에 커밋이 올라갔는지 확인 | [ ] |
+| 3.8 `git push` | 원격 저장소에 커밋이 올라갔는지 확인 | [x] |
